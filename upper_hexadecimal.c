@@ -9,12 +9,12 @@ char *string_to_upper(char *);
  * Return: size, number of characters
  */
 
-int print_X(va_list list)
+int print_X(va_list ar_list)
 {
 	char *x_buffer;
 	int size;
 
-	x_buffer = convert(va_arg(list, unsigned int), 16);
+	x_buffer = convert(va_arg(ar_list, unsigned int), 16);
 	x_buffer = string_to_upper(x_buffer);
 
 	size = print((x_buffer != NULL) ? x_buffer : "NULL");
