@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_o - print octal notation
- * @list: list of arguments
+ * @ar_list: list of arguments
  * Return: number of characters
  */
 

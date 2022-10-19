@@ -5,7 +5,7 @@ char *string_to_upper(char *);
 
 /**
  * print_X - print hexadecimal notation in uppercase
- * @list: list of arguments
+ * @ar_list: list of arguments
  * Return: size, number of characters
  */
 

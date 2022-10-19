@@ -2,7 +2,7 @@
 
 /**
  * print_unsigned - print unsigned int
- * @list: list of arguments
+ * @ar_list: list of arguments
  * Return: number of unsigned ints
  */
 

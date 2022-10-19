@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_x - print hexadecimal numbers
- * @list: argument list
+ * @ar_list: argument list
  * Return: size
  */
 
